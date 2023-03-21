@@ -1,4 +1,3 @@
-package Alternate;
 
 // importing necessary libraries
 import java.util.Random;
